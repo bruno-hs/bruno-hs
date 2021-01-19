@@ -5,4 +5,4 @@
 ### About Me
 
 #### Eu sou um estudante de Análise e Desenvolvimentos de Sistemas pela Universidade Mackenzie e apaixonado por códigos.
-#### Busco sempre melhorar minhas habilidades e estou sempre estudando novas tecnologias. ⚡
+#### Busco sempre melhorar minhas habilidades e estudar novas tecnologias. ⚡
