@@ -7,4 +7,3 @@
 
 #### I am a student of Systems Analysis and Development at Mackenzie University and passionate about codes.
 #### I always try to improve my skills and study new technologies.⚡
-)](https://www.linkedin.com/in/fagnerpsantos/)
