@@ -4,5 +4,5 @@
 
 ### About Me
 
-#### Eu sou um estudante de Análise e Desenvolvimentos de Sistemas pela Universidade Mackenzie e apaixonado por códigos.
-#### Busco sempre melhorar minhas habilidades e estudar novas tecnologias. ⚡
+#### I am a student of Systems Analysis and Development at Mackenzie University and passionate about codes.
+#### I always try to improve my skills and study new technologies.⚡
