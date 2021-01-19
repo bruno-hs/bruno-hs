@@ -1,6 +1,6 @@
 ## Hello there, { I'm Bruno! }
 
-<img src="https://img.shields.io/static/v1?label=-&message=LinkedIn&color=0077B5&style=plastic&logo&link=https://www.linkedin.com/in/bruno-henrique-9bb89a18b/)](https://www.linkedin.com/in/bruno-henrique-9bb89a18b/)"/>
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bruno-henrique-9bb89a18b/)
 
 
 ### About Me
